@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pandemic Tracker</string>
+    <string name="splash_note">#StayAtHome</string>
+    <string name="brand_name">bvinstruments</string>
+    <string name="add_widget">Add widget</string>
+    <string name="internet_error_message">You\'re offline. Check your \n connection.</string>
+    <string name="server_error_message">Can not fetch data.</string>
+
+    <string name="pandemic_name">SARS-CoV-2</string>
+
+/* TOP BAR */
+    <string name="search_state">Search state</string>
+
+
+
+
+</resources>
